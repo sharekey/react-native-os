@@ -26,6 +26,10 @@
     "ios",
     "android"
   ],
+  "author": {
+    "name": "sharekey",
+    "email": "support@sharekey.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/aprock/react-native-os/issues"
